@@ -27,7 +27,7 @@ etc.
 
 **— But I need to send messages!**
 
-Use this module!
+Use this module! With it you will send and receive messages, not the flow of data.
 
 ```js
 var net = require('net');
@@ -59,6 +59,8 @@ $ npm install message-protocol
 
 ## Testing
 
+via npm:
+
 ```bash
 $ npm run-script test
 ```
@@ -84,4 +86,4 @@ $ npm run-script test
 
 ## Algorithm
 
-The first 4 bytes of every message - message length. It allows to distinguish messages in the data stream.
+The first 4 bytes of every message — message length. It allows to distinguish messages in the data stream.
