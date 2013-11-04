@@ -27,7 +27,7 @@ etc.
 
 **— But I need to send messages!**
 
-Use this module!
+Use this module! With it you will send and receive messages, not the flow of data.
 
 ```js
 var net = require('net');
