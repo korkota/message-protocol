@@ -84,4 +84,4 @@ $ npm run-script test
 
 ## Algorithm
 
-The first 4 bytes of every message - message length. It allows to distinguish messages in the data stream.
+The first 4 bytes of every message — message length. It allows to distinguish messages in the data stream.
