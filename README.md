@@ -59,6 +59,8 @@ $ npm install message-protocol
 
 ## Testing
 
+via npm:
+
 ```bash
 $ npm run-script test
 ```
